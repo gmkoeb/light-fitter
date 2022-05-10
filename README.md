@@ -6,3 +6,13 @@ The program reads a .dat or .txt file with experimental data from JxV (current d
 
 ## Examples
 
+```
+~$ python3 light.py
+ Rs= 6.802274180232417 Ohm m²
+ Rsh= 51.78864221518462 Ohm m²
+ Voc= 23.01824827450167 V
+ Jsc= -1.42867 A/m²
+ FF= 38.999896184246644 %
+ PCE= 3.7142494517810594 %
+```
+
