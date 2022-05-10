@@ -17,3 +17,5 @@ The program reads a .dat or .txt file with experimental data from JxV (current d
 ```
 ![Sample](images/luzexample.png)
 
+## Requirements
+See requirements-python.txt. Also needs the func.py for additional polynomial functions.
