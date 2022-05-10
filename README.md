@@ -15,4 +15,5 @@ The program reads a .dat or .txt file with experimental data from JxV (current d
  FF= 38.999896184246644 %
  PCE= 3.7142494517810594 %
 ```
-![Sample](./images/luzexemplo.png)
+![Sample](images/luzexample.png)
+
