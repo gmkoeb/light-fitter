@@ -161,7 +161,7 @@ Rsh=1/df[0]
 Voc=res
 Jsc=y[0]
 FF=((Vmax*Jmax)/(Voc*Jsc))*100
-EF=abs((Voc*Jsc*FF)/(345.3))  
+EF=abs((Voc*Jsc*FF)/(345.3))  #user needs to provide the incoming power from the light source (in this case 345.3)
         
 print (" Rs=",Rs,"Ohm m²")
 
