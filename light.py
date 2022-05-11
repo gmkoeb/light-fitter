@@ -6,7 +6,7 @@ from scipy.optimize import root
 from sklearn.metrics import r2_score
 import func as fc
 
-data = np.loadtxt('luz.txt')
+data = np.loadtxt('testdata.txt')
 
 x = data[:, 0]
 y = data[:, 1]
